@@ -1,7 +1,7 @@
 ﻿ # About Me
  
 I am a **Product Designer** & **User Interface Developer**.  
-I have over **8 years** of experience in **Product Design** and **UI Development** and I know the basics of a few Front End and Backend languages/frameworks
+I have over **9 years** of experience in **Product Design** and **UI Development** and I know the basics of a few Front End and Backend languages/frameworks
 
 ## Projects
 > Projects that I'm in or was involved in the past
