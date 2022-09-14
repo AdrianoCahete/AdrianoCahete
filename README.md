@@ -1,10 +1,10 @@
 ﻿ # About Me
  
-I am a **Product Designer** & **User Interface Developer**.  
-I have over **9 years** of experience in **Product Design** and **UI Development** and I know the basics of a few Front End and Backend languages/frameworks
+I am a **Design Technologist** & **Product Designer**.  
+I have over **10 years** of experience in **Product Design** and **Design Technologist** and I know a few Front End and Backend languages/frameworks
 
 ## Projects
-> Projects that I'm in or was involved in the past
+> Projects that I'm in or was involved
 
 [My Portfolio](https://adrianocahete.dev/)  
 [Simple Badges](https://github.com/AdrianoCahete/SimpleBadges)  -- That badges on "Visit" section
