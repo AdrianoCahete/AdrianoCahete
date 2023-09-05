@@ -2,7 +2,7 @@
  
 I am a **Design Technologist** & **DesignOps**, currently @ Philips (NL)
 
-Working across some Product Design areas (Interaction, Motion, UX, UI) as a Lead Designer and Design Technologist with digital products, with more than 13 years of experience with companies in Brazil, Netherlands, and the US.
+Working across some Product Design areas (Interaction, Motion, UX, UI) as a Lead Designer and Design Technologist with digital products, with more than **13 years of experience** with companies in Brazil, Netherlands, and the US.
 
 With a broad range of skills, **from Design to Code**, specialized to fulfil the gap between Designers and Developers, making a better Design/Developer experience.
 
